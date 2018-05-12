@@ -1,0 +1,10 @@
+Document 0
+<metapy.stats.Multinomial {}>
+Document 1
+<metapy.stats.Multinomial {0L: 0.405242, 1L: 0.203629, 2L: 0.002016, 3L: 0.002016, 4L: 0.385081, 5L: 0.002016}>
+Document 2
+<metapy.stats.Multinomial {}>
+Document 3
+<metapy.stats.Multinomial {0L: 0.002058, 1L: 0.351852, 2L: 0.639918, 3L: 0.002058, 4L: 0.002058, 5L: 0.002058}>
+Document 4
+<metapy.stats.Multinomial {}>
